@@ -1,0 +1,11 @@
+A,B,C,D,E,F,G //states
+a,b //alphabet
+A //starting state
+A,B,C,E,G //accepting state
+B,C //A
+E,D //B
+E,F //C
+G,F //D
+E,F //E
+E,F //F
+B,C //G

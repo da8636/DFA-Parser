@@ -1,0 +1,10 @@
+AG,B,EC,D,F//states
+a,b //alphabet
+AG //starting state
+AG,B,EC //accepting state
+B,EC //AG
+EC,D //B
+EC,F //EC
+AG,F //D
+EC,F //F
+
